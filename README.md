@@ -15,4 +15,4 @@ The following developers contributed in building the application:
 * [Riordan Dervin Alfredo](https://github.com/riordanalfredo)
 
 ## Acknowledgments
-Thanks to Tomaz Kosar for supervising the project as well as overseeing the development of this application.
+Thanks to [Tomaz Kosar](https://github.com/tomazkosar) for supervising the project as well as overseeing the development of this application.
